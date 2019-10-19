@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-0S3BU9QM" name="com.seleniumautomation.selenium.maventest" tests="1" failures="0" timestamp="19 Oct 2019 08:53:59 GMT" time="0.01" errors="0">
+  <testcase name="testmaven" time="0.005" classname="com.seleniumautomation.selenium.maventest"/>
+</testsuite>

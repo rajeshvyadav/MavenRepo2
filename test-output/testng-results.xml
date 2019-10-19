@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30" started-at="2015-10-23T13:08:48Z" finished-at="2015-10-23T13:08:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30" started-at="2015-10-23T13:08:48Z" finished-at="2015-10-23T13:08:48Z">
+      <class name="com.seleniumautomation.selenium.maventest">
+        <test-method status="PASS" signature="testmaven()[pri:0, instance:com.seleniumautomation.selenium.maventest@71e7a66b]" name="testmaven" duration-ms="14" started-at="2015-10-23T18:38:48Z" finished-at="2015-10-23T18:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmaven -->
+      </class> <!-- com.seleniumautomation.selenium.maventest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
